@@ -37,8 +37,8 @@
     "phone": "088213361851",
     "status": "active",
     "otp": "789767",
-    "isPremium": false,
-    "tokenVip": "",
+    "isPremium": true,
+    "tokenVip": "VIP-ADMIN-RAZQA",
     "usage": 0
   }
 ]
