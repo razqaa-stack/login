@@ -31,5 +31,15 @@
     "tokenVip": "",
     "usage": 12,
     "lastReset": "2026-04-11"
+  },
+  {
+    "username": "diva",
+    "password": "divacantik",
+    "phone": "62821999999",
+    "status": "pending",
+    "otp": "927782",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
   }
 ]
