@@ -1,3 +1,23 @@
 [
-  {"username":"razqaa","password":"MTsN01Payakumbuh","phone":"48666666672","status":"active","otp":"999999","isPremium":true,"tokenVip":"VIP-ADMIN-RAZQAA","usage":0, "lastReset": "2026-04-11"}
+  {
+    "username": "razqaa",
+    "password": "MTsN01Payakumbuh",
+    "phone": "48666666672",
+    "status": "active",
+    "otp": "999999",
+    "isPremium": true,
+    "tokenVip": "VIP-ADMIN-RAZQAA",
+    "usage": 0,
+    "lastReset": "2026-04-11"
+  },
+  {
+    "username": "ADMINRAZQA",
+    "password": "MTsN01Payakumbuh",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "WAIT",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
+  }
 ]
