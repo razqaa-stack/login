@@ -28,6 +28,7 @@
     "otp": "189020",
     "isPremium": false,
     "tokenVip": "",
-    "usage": 0
+    "usage": 1,
+    "lastReset": "2026-04-11"
   }
 ]
