@@ -41,5 +41,15 @@
     "isPremium": false,
     "tokenVip": "",
     "usage": 0
+  },
+  {
+    "username": "ADMINRARA",
+    "password": "rara",
+    "phone": "62626262",
+    "status": "pending",
+    "otp": "613659",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
   }
 ]
