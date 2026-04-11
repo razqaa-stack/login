@@ -23,8 +23,8 @@
     "username": "razqaav2",
     "password": "12345678",
     "phone": "6282175517018",
-    "status": "pending",
-    "otp": "WAIT",
+    "status": "active",
+    "otp": "999999",
     "isPremium": false,
     "tokenVip": "",
     "usage": 0
