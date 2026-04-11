@@ -32,25 +32,4 @@
     "usage": 11,
     "lastReset": "2026-04-11"
   },
-  {
-    "username": "sosis bulu",
-    "password": "ambasing",
-    "phone": "088213361851",
-    "status": "active",
-    "otp": "789767",
-    "isPremium": true,
-    "tokenVip": "VIP-ADMIN-RAZQA",
-    "usage": 0,
-    "lastReset": "2026-04-11"
-  },
-  {
-    "username": "farelsukatiktok",
-    "password": "haii",
-    "phone": "6282175517018",
-    "status": "active",
-    "otp": "992143",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0
-  }
 ]
