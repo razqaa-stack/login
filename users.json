@@ -24,8 +24,8 @@
     "username": "shizaneko",
     "password": "kiyowo12345678",
     "phone": "6282175518618",
-    "status": "pending",
-    "otp": "WAIT",
+    "status": "active",
+    "otp": "189020",
     "isPremium": false,
     "tokenVip": "",
     "usage": 0
