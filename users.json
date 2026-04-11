@@ -51,5 +51,15 @@
     "isPremium": false,
     "tokenVip": "",
     "usage": 0
+  },
+  {
+    "username": "Ryuujin ",
+    "password": "ryuujin123",
+    "phone": "08992554520",
+    "status": "pending",
+    "otp": "225419",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
   }
 ]
