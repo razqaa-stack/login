@@ -14,10 +14,10 @@
     "username": "ADMINRAZQA",
     "password": "MTsN01Payakumbuh",
     "phone": "48666666672",
-    "status": "pending",
-    "otp": "WAIT",
-    "isPremium": false,
-    "tokenVip": "",
+    "status": "active",
+    "otp": "17062011",
+    "isPremium": true,
+    "tokenVip": "VIP-ADMIN-RAZQA",
     "usage": 0
   }
 ]
