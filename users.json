@@ -30,5 +30,15 @@
     "tokenVip": "",
     "usage": 11,
     "lastReset": "2026-04-11"
+  },
+  {
+    "username": "sosis bulu",
+    "password": "ambasing",
+    "phone": "088213361851",
+    "status": "pending",
+    "otp": "WAIT",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
   }
 ]
