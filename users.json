@@ -8,5 +8,15 @@
     "isPremium": true,
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 0
+  },
+  {
+    "username": "kontol123",
+    "password": "kontol123",
+    "phone": "6282175517018",
+    "status": "pending",
+    "otp": "WAIT",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
   }
 ]
