@@ -8,25 +8,5 @@
     "isPremium": true,
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 0
-  },
-  {
-    "username": "razqaav2",
-    "password": "MTsN01Payakukbuh",
-    "phone": "6282175517018",
-    "status": "active",
-    "otp": "01110426",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0
-  },
-  {
-    "username": "razqaav3",
-    "password": "MTSN01PAYAKUMBUH",
-    "phone": "6289999999",
-    "status": "active",
-    "otp": "02110426",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0
   }
 ]
