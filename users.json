@@ -1,1 +1,5 @@
-[{"username":"razqaa","password":"MTsN01Payakumbuh","phone":"48666666672","status":"active","otp":"999999","isPremium":true,"tokenVip":"VIP-ADMIN-RAZQAA","usage":0},{"username":"kontol123","password":"kontol123","phone":"6282175517018","status":"active","otp":"1234567","isPremium":false,"tokenVip":"","usage":70},{"username":"razqaav2","password":"12345678","phone":"6282175517018","status":"active","otp":"999999","isPremium":false,"tokenVip":"","usage":2}]
+[
+  {"username":"razqaa","password":"MTsN01Payakumbuh","phone":"48666666672","status":"active","otp":"999999","isPremium":true,"tokenVip":"VIP-ADMIN-RAZQAA","usage":0},
+  {"username":"kontol123","password":"kontol123","phone":"6282175517018","status":"active","otp":"1234567","isPremium":false,"tokenVip":"","usage":69},
+  {"username":"razqaav2","password":"12345678","phone":"6282175517018","status":"active","otp":"999999","isPremium":false,"tokenVip":"","usage":2}
+]
