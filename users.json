@@ -18,5 +18,15 @@
     "isPremium": false,
     "tokenVip": "",
     "usage": 70
+  },
+  {
+    "username": "razqaav2",
+    "password": "12345678",
+    "phone": "6282175517018",
+    "status": "pending",
+    "otp": "WAIT",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0
   }
 ]
