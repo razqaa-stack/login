@@ -42,15 +42,5 @@
     "tokenVip": "VIP-ADMIN-RAZQA",
     "usage": 0,
     "lastReset": "2026-04-11"
-  },
-  {
-    "username": "farelsukatiktok",
-    "password": "kkkk",
-    "phone": "6282175517018",
-    "status": "pending",
-    "otp": "591366",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0
   }
 ]
