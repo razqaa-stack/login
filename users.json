@@ -18,7 +18,8 @@
     "otp": "170611",
     "isPremium": true,
     "tokenVip": "VIP-ADMIN-RAZQA",
-    "usage": 0
+    "usage": 0,
+    "lastReset": "2026-04-11"
   },
   {
     "username": "shizaneko",
@@ -27,7 +28,7 @@
     "status": "active",
     "otp": "189020",
     "isPremium": false,
-    "tokenVip": ""
+    "tokenVip": "",
     "usage": 11,
     "lastReset": "2026-04-11"
   },
@@ -39,6 +40,7 @@
     "otp": "789767",
     "isPremium": true,
     "tokenVip": "VIP-ADMIN-RAZQA",
-    "usage": 0
+    "usage": 0,
+    "lastReset": "2026-04-11"
   }
 ]
