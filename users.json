@@ -20,5 +20,16 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 1,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "shizaneko",
+    "password": "kkkkkk",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "736238",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
