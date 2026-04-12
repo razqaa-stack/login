@@ -1,4 +1,4 @@
-[
+ni[
   {
     "username": "razqaa",
     "password": "MTsN01Payakumbuh",
@@ -20,15 +20,5 @@
     "tokenVip": "VIP-ADMIN-RAZQA",
     "usage": 0,
     "lastReset": "2026-04-11"
-  },
-  {
-    "username": "Ryuujin ",
-    "password": "ryuujin123",
-    "phone": "08992554520",
-    "status": "pending",
-    "otp": "225419",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0
   }
 ]
