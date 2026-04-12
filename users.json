@@ -1,4 +1,4 @@
-   [
+[
   {
     "username": "razqaa",
     "password": "MTsN01Payakumbuh",
@@ -20,5 +20,16 @@
     "tokenVip": "VIP-ADMIN-RAZQA",
     "usage": 0,
     "lastReset": "2026-04-11"
+  },
+  {
+    "username": "shizaneko",
+    "password": "MTsN01Payakumbuh",
+    "phone": "6282210062160",
+    "status": "pending",
+    "otp": "294970",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
