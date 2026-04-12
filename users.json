@@ -29,5 +29,15 @@
     "isPremium": false,
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "rizak",
+    "password": "gshsha",
+    "email": "netihartati75@gmail.com",
+    "status": "pending",
+    "otp": "789331",
+    "isPremium": false,
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
