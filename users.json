@@ -19,5 +19,16 @@
     "isPremium": false,
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "shizaneko",
+    "password": "test12345678",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "744270",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
