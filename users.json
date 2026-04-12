@@ -11,34 +11,13 @@
     "lastReset": "2026-04-11"
   },
   {
-    "username": "nana",
-    "password": "12345678",
-    "email": "kiyowo@gmail.com",
-    "status": "active",
-    "otp": "693184",
-    "isPremium": false,
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "shizaneko",
-    "password": "test12345678",
-    "phone": "6281372495677",
-    "status": "active",
-    "otp": "744270",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
     "username": "sosis bulu jembut",
     "password": "asuasu",
     "phone": "088213361851",
     "status": "active",
     "otp": "408437",
-    "isPremium": false,
-    "tokenVip": "",
+    "isPremium": true,
+    "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 1,
     "lastReset": "2026-04-12"
   }
