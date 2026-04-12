@@ -19,5 +19,15 @@
     "isPremium": false,
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "ryan",
+    "password": "12345678",
+    "email": "netihartati75@gmail.com",
+    "status": "pending",
+    "otp": "393802",
+    "isPremium": false,
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
