@@ -9,35 +9,5 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 0,
     "lastReset": "2026-04-11"
-  },
-  {
-    "username": "nana",
-    "password": "12345678",
-    "email": "netihartati75@gmail.com",
-    "status": "pending",
-    "otp": "912562",
-    "isPremium": false,
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "ryan",
-    "password": "12345678",
-    "email": "netihartati75@gmail.com",
-    "status": "pending",
-    "otp": "393802",
-    "isPremium": false,
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "rizak",
-    "password": "gshsha",
-    "email": "netihartati75@gmail.com",
-    "status": "pending",
-    "otp": "789331",
-    "isPremium": false,
-    "usage": 0,
-    "lastReset": "2026-04-12"
   }
 ]
