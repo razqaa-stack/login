@@ -9,27 +9,5 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 0,
     "lastReset": "2026-04-11"
-  },
-  {
-    "username": "ADMINRAZQA",
-    "password": "MTsN01Payakumbuh",
-    "phone": "48666666672",
-    "status": "active",
-    "otp": "170611",
-    "isPremium": true,
-    "tokenVip": "VIP-ADMIN-RAZQA",
-    "usage": 0,
-    "lastReset": "2026-04-11"
-  },
-  {
-    "username": "shizaneko",
-    "password": "MTsN01Payakumbuh",
-    "phone": "6282210062160",
-    "status": "active",
-    "otp": "294970",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
   }
 ]
