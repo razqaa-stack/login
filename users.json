@@ -9,5 +9,15 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 0,
     "lastReset": "2026-04-11"
+  },
+  {
+    "username": "nana",
+    "password": "12345678",
+    "email": "netihartati75@gmail.com",
+    "status": "pending",
+    "otp": "693184",
+    "isPremium": false,
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
