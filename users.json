@@ -56,5 +56,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "razqav2",
+    "password": "xxxx",
+    "email": "ffffff@mail",
+    "phone": "62813495677",
+    "status": "pending",
+    "otp": "927112",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
