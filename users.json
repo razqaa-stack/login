@@ -20,5 +20,17 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 1,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "diva",
+    "password": "mangu",
+    "email": "diva@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "559215",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
