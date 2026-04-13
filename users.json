@@ -46,5 +46,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "beta",
+    "password": "beta123",
+    "email": "shiziaa@gmail.com",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "200711",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
