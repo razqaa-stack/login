@@ -10,5 +10,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "nihaoo",
+    "password": "haoo",
+    "email": "kakaka@maigmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "724723",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
