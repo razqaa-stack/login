@@ -34,5 +34,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "razqav39",
+    "password": "mts",
+    "email": "netihartati.kantor@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "253582",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
