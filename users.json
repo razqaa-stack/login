@@ -44,5 +44,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "razqav1",
+    "password": "kiyowo",
+    "email": "test@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "485498",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
