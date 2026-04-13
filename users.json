@@ -20,41 +20,5 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 1,
     "lastReset": "2026-04-12"
-  },
-  {
-    "username": "shizaneko",
-    "password": "TESTMODE",
-    "email": "shiziaa@gmail.com",
-    "phone": "6281372495677",
-    "status": "pending",
-    "otp": "109783",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "shiza",
-    "password": "anjay_mabar",
-    "email": "shiziaa@gmail.com",
-    "phone": "6281372495677",
-    "status": "active",
-    "otp": "115406",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "shizanekoz",
-    "password": "PUKIMAK",
-    "email": "shiziaa@gmail.com",
-    "phone": "6281372495677",
-    "status": "pending",
-    "otp": "190494",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
   }
 ]
