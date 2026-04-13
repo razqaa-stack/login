@@ -32,5 +32,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "shiza",
+    "password": "bujanginam",
+    "email": "bujanginam@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "439408",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
