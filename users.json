@@ -20,29 +20,5 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 1,
     "lastReset": "2026-04-12"
-  },
-  {
-    "username": "diva",
-    "password": "mangu",
-    "email": "diva@gmail.com",
-    "phone": "6281372495677",
-    "status": "active",
-    "otp": "243582",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "shiza",
-    "password": "test12345678",
-    "email": "shiziaa@gmail.com",
-    "phone": "6282175517018",
-    "status": "pending",
-    "otp": "230465",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
   }
 ]
