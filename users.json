@@ -10,5 +10,17 @@
     "tokenVip": "ADMINTOKEN",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "admin1",
+    "password": "dd1",
+    "email": "sssss@mail",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "173299",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
