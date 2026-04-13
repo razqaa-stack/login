@@ -6,8 +6,8 @@
     "phone": "48666666672",
     "status": "active",
     "otp": "421837",
-    "isPremium": false,
-    "tokenVip": "",
+    "isPremium": true,
+    "tokenVip": "ADMINTOKEN",
     "usage": 0,
     "lastReset": "2026-04-12"
   }
