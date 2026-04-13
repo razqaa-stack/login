@@ -22,5 +22,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "shizaneko",
+    "password": "kakakakakak",
+    "email": "shiziaa@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "358805",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
