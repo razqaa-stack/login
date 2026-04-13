@@ -20,5 +20,17 @@
     "tokenVip": "VIP-ADMIN-RAZQAA",
     "usage": 1,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "razqav3",
+    "password": "wwwwww",
+    "email": "netihartati.kantor@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "281246",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
