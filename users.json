@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "username": "ADMIN",
+    "password": "MTsN01Payakumbuh",
+    "email": "skyzeecorp@gmail.com",
+    "phone": "79828950162",
+    "status": "pending",
+    "otp": "488293",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
+  }
+]
