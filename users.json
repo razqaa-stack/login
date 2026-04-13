@@ -34,5 +34,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "xiaoo",
+    "password": "nioxio",
+    "email": "kakaka@maigmail.com",
+    "phone": "6282210062160",
+    "status": "pending",
+    "otp": "418733",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
