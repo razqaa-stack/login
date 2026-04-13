@@ -70,5 +70,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "shinazx",
+    "password": "mtkk",
+    "email": "shiziaa@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "150736",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
