@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "username": "admin",
+    "password": "MTsN01Payakumbuh",
+    "email": "farelsukatiktok@gmail.com",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "421837",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
+  }
+]
