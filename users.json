@@ -10,17 +10,5 @@
     "tokenVip": "ADMINTOKEN",
     "usage": 0,
     "lastReset": "2026-04-12"
-  },
-  {
-    "username": "admin1",
-    "password": "dddd",
-    "email": "netihartati.kantor@gmail.com",
-    "phone": "6281372495677",
-    "status": "active",
-    "otp": "132506",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
   }
 ]
