@@ -42,5 +42,15 @@
     "otp": "756177",
     "isPremium": false,
     "usage": 0
+  },
+  {
+    "username": "Ryuujin",
+    "password": "ryuujin123",
+    "email": "daffatonisusanto@gmail.com",
+    "phone": "628992554520",
+    "status": "pending",
+    "otp": "332510",
+    "isPremium": false,
+    "usage": 0
   }
 ]
