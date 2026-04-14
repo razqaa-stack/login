@@ -32,15 +32,5 @@
     "tokenVip": "",
     "usage": 5,
     "lastReset": "2026-04-14"
-  },
-  {
-    "username": "Ryuujin",
-    "password": "ryuujin123",
-    "email": "daffatonisusanto@gmail.com",
-    "phone": "628992554520",
-    "status": "pending",
-    "otp": "332510",
-    "isPremium": false,
-    "usage": 0
   }
 ]
