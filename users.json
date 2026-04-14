@@ -52,5 +52,15 @@
     "otp": "610544",
     "isPremium": true,
     "usage": 0
+  },
+  {
+    "username": "nihaoo",
+    "password": "haoo",
+    "email": "test@gmail.com",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "693285",
+    "isPremium": false,
+    "usage": 0
   }
 ]
