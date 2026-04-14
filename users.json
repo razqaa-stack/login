@@ -50,7 +50,7 @@
     "phone": "6281372495677",
     "status": "active",
     "otp": "610544",
-    "isPremium": false,
+    "isPremium": true,
     "usage": 0
   }
 ]
