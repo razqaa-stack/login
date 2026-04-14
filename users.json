@@ -32,47 +32,5 @@
     "tokenVip": "",
     "usage": 5,
     "lastReset": "2026-04-14"
-  },
-  {
-    "username": "❌ Format salah! Gunakan: Username",
-    "password": "Password",
-    "email": "Email",
-    "phone": "NoWA",
-    "status": "pending",
-    "otp": "256374",
-    "isPremium": false,
-    "usage": 0
-  },
-  {
-    "username": "razqav1",
-    "password": "kkkk",
-    "email": "netihartati.kantor@gmail.com",
-    "phone": "6281372495677",
-    "status": "active",
-    "otp": "832378",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "🤖 *PENDAFTARAN AKUN*\nSilakan kirimkan data dengan format:\nUsername",
-    "password": "Password",
-    "email": "Email",
-    "phone": "NoWA",
-    "status": "active",
-    "otp": "307350",
-    "isPremium": false,
-    "usage": 0
-  },
-  {
-    "username": "🤖 *PENDAFTARAN AKUN*\nSilakan kirimkan data dengan format:\nUsername",
-    "password": "Password",
-    "email": "Email",
-    "phone": "NoWA",
-    "status": "pending",
-    "otp": "880615",
-    "isPremium": false,
-    "usage": 0
   }
 ]
