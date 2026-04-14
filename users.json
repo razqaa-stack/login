@@ -42,5 +42,17 @@
     "otp": "256374",
     "isPremium": false,
     "usage": 0
+  },
+  {
+    "username": "razqav1",
+    "password": "kkkk",
+    "email": "netihartati.kantor@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "832378",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
