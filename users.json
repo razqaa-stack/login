@@ -6,7 +6,7 @@
     "phone": "79828950162",
     "status": "active",
     "otp": "488293",
-    "isPremium": false,
+    "isPremium": true,
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
