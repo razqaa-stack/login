@@ -40,7 +40,7 @@
     "phone": "48666666672",
     "status": "active",
     "otp": "888594",
-    "isPremium": false,
+    "isPremium": true,
     "usage": 0
   }
 ]
