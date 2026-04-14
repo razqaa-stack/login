@@ -42,5 +42,15 @@
     "otp": "151424",
     "isPremium": false,
     "usage": 0
+  },
+  {
+    "username": "nihaoo",
+    "password": "haoo337",
+    "email": "haoonihao@mail.com",
+    "phone": "62899999",
+    "status": "pending",
+    "otp": "809842",
+    "isPremium": false,
+    "usage": 0
   }
 ]
