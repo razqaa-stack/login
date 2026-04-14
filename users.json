@@ -60,7 +60,7 @@
     "password": "Password",
     "email": "Email",
     "phone": "NoWA",
-    "status": "pending",
+    "status": "active",
     "otp": "307350",
     "isPremium": false,
     "usage": 0
