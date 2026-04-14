@@ -32,5 +32,15 @@
     "tokenVip": "",
     "usage": 5,
     "lastReset": "2026-04-14"
+  },
+  {
+    "username": "❌ Format salah! Gunakan: Username",
+    "password": "Password",
+    "email": "Email",
+    "phone": "NoWA",
+    "status": "pending",
+    "otp": "256374",
+    "isPremium": false,
+    "usage": 0
   }
 ]
