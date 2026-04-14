@@ -64,5 +64,15 @@
     "otp": "307350",
     "isPremium": false,
     "usage": 0
+  },
+  {
+    "username": "🤖 *PENDAFTARAN AKUN*\nSilakan kirimkan data dengan format:\nUsername",
+    "password": "Password",
+    "email": "Email",
+    "phone": "NoWA",
+    "status": "pending",
+    "otp": "880615",
+    "isPremium": false,
+    "usage": 0
   }
 ]
