@@ -57,5 +57,16 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "Leo Arthur",
+    "password": "informatika11",
+    "phone": "6283161880144",
+    "status": "pending",
+    "otp": "685925",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
