@@ -46,5 +46,16 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "Ryuujin ",
+    "password": "ryuujin123",
+    "phone": "08992554520",
+    "status": "pending",
+    "otp": "863472",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-12"
   }
 ]
