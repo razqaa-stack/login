@@ -43,5 +43,15 @@
     "isPremium": false,
     "usage": 3,
     "lastReset": "2026-04-14"
+  },
+  {
+    "username": "haoo",
+    "password": "anjayy",
+    "email": "nihaoo@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "347711",
+    "isPremium": false,
+    "usage": 0
   }
 ]
