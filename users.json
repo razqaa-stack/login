@@ -58,7 +58,7 @@
     "password": "haoo",
     "email": "test@gmail.com",
     "phone": "48666666672",
-    "status": "pending",
+    "status": "active",
     "otp": "693285",
     "isPremium": false,
     "usage": 0
