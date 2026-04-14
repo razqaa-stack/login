@@ -42,5 +42,15 @@
     "otp": "687051",
     "isPremium": true,
     "usage": 0
+  },
+  {
+    "username": "ADMIN2",
+    "password": "NxyDevs",
+    "email": "skyzeecorp@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "610544",
+    "isPremium": false,
+    "usage": 0
   }
 ]
