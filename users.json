@@ -41,6 +41,7 @@
     "status": "pending",
     "otp": "888594",
     "isPremium": false,
-    "usage": 0
+    "usage": 1,
+    "lastReset": "2026-04-14"
   }
 ]
