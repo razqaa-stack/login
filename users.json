@@ -54,5 +54,15 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-12"
+  },
+  {
+    "username": "🤖 *PENDAFTARAN AKUN*\nSilakan kirimkan data dengan format:\nUsername",
+    "password": "Password",
+    "email": "Email",
+    "phone": "NoWA",
+    "status": "pending",
+    "otp": "307350",
+    "isPremium": false,
+    "usage": 0
   }
 ]
