@@ -52,5 +52,15 @@
     "otp": "610544",
     "isPremium": true,
     "usage": 0
+  },
+  {
+    "username": "yihaoo",
+    "password": "testtt33",
+    "email": "kyywiwi@gmail.com",
+    "phone": "6281372495677",
+    "status": "pending",
+    "otp": "739303",
+    "isPremium": false,
+    "usage": 0
   }
 ]
