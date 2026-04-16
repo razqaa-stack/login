@@ -1,45 +1,53 @@
 [
-  {
-    "username": "ADMIN",
-    "password": "MTsN01Payakumbuh",
-    "email": "skyzeecorp@gmail.com",
-    "phone": "79828950162",
-    "status": "active",
-    "otp": "488293",
-    "isPremium": true,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-12"
-  },
-  {
-    "username": "Leo Arthur",
-    "password": "informatika11",
-    "phone": "62831618801444",
-    "status": "active",
-    "otp": "685925",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 5,
-    "lastReset": "2026-04-14"
-  },
-  {
-    "username": "Ryuuujin",
-    "password": "ryuuujin123",
-    "email": "daffatonisusanto@gmail.com",
-    "phone": "628992554520",
-    "status": "active",
-    "otp": "687051",
-    "isPremium": true,
-    "usage": 0
-  },
-  {
-    "username": "ADMIN2",
-    "password": "NxyDevs",
-    "email": "skyzeecorp@gmail.com",
-    "phone": "6281372495677",
-    "status": "active",
-    "otp": "610544",
-    "isPremium": true,
-    "usage": 0
-  }
+    {
+        "username": "ADMIN",
+        "password": "MTsN01Payakumbuh",
+        "email": "skyzeecorp@gmail.com",
+        "phone": "79828950162",
+        "status": "active",
+        "otp": "488293",
+        "isPremium": true,
+        "tokenVip": "",
+        "usage": 0,
+        "lastReset": "2026-04-12"
+    },
+    {
+        "username": "Leo Arthur",
+        "password": "informatika11",
+        "phone": "62831618801444",
+        "status": "active",
+        "otp": "685925",
+        "isPremium": false,
+        "tokenVip": "",
+        "usage": 5,
+        "lastReset": "2026-04-14"
+    },
+    {
+        "username": "Ryuuujin",
+        "password": "ryuuujin123",
+        "email": "daffatonisusanto@gmail.com",
+        "phone": "628992554520",
+        "status": "active",
+        "otp": "687051",
+        "isPremium": true,
+        "usage": 0
+    },
+    {
+        "username": "ADMIN2",
+        "password": "NxyDevs",
+        "email": "skyzeecorp@gmail.com",
+        "phone": "6281372495677",
+        "status": "active",
+        "otp": "610544",
+        "isPremium": true,
+        "usage": 0
+    },
+    {
+        "username": "nxydevs",
+        "name": "Razqa fazil defandryan zack",
+        "email": "skyzeetest@mail.com",
+        "phone": "6281372495677",
+        "password": "KIYOWO",
+        "status": "pending"
+    }
 ]
