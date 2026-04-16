@@ -48,7 +48,6 @@
         "email": "skyzeetest@mail.com",
         "phone": "6281372495677",
         "password": "KIYOWO",
-        "status": "pending",
-        "otp": "150637"
+        "status": "active"
     }
 ]
