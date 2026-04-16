@@ -49,5 +49,13 @@
         "phone": "6281372495677",
         "password": "KIYOWO",
         "status": "active"
+    },
+    {
+        "username": "test",
+        "name": "Razqa fazil defandryan zack",
+        "email": "skyzeetest@mail.com",
+        "phone": "6281372495677",
+        "password": "xxx",
+        "status": "pending"
     }
 ]
