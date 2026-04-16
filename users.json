@@ -56,7 +56,6 @@
         "email": "skyzeetest@mail.com",
         "phone": "6281372495677",
         "password": "xxx",
-        "status": "pending",
-        "otp": "125163"
+        "status": "active"
     }
 ]
