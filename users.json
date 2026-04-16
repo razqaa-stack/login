@@ -41,5 +41,12 @@
         "otp": "610544",
         "isPremium": true,
         "usage": 0
+    },
+    {
+        "username": "nxydevs",
+        "name": "Razqa fazil defandryan zack",
+        "phone": "6281372495677",
+        "password": "XXXXX",
+        "status": "pending"
     }
 ]
