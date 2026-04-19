@@ -57,5 +57,15 @@
     "phone": "6281372495677",
     "password": "xxx",
     "status": "active"
+  },
+  {
+    "username": "Razqa",
+    "password": "RazqaXD",
+    "email": "razqamot@gmaul.com",
+    "phone": "+62 851-3462-6581",
+    "status": "pending",
+    "otp": "702995",
+    "isPremium": false,
+    "usage": 0
   }
 ]
