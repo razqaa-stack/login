@@ -79,5 +79,17 @@
     "tokenVip": "",
     "usage": 8,
     "lastReset": "2026-04-22"
+  },
+  {
+    "username": "apa si",
+    "password": "12345",
+    "email": "y",
+    "phone": "0",
+    "status": "pending",
+    "otp": "562011",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
