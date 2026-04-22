@@ -31,5 +31,17 @@
     "otp": "687051",
     "isPremium": true,
     "usage": 0
+  },
+  {
+    "username": "TianMot",
+    "password": "TianModz",
+    "email": "notfoundanjayppp@gmail.com",
+    "phone": "6282173370949",
+    "status": "pending",
+    "otp": "345711",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
