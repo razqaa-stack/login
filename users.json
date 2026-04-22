@@ -67,5 +67,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-19"
+  },
+  {
+    "username": "Kipil",
+    "password": "Kipil123",
+    "email": "elgues21@gmail.com",
+    "phone": "6283111514822",
+    "status": "pending",
+    "otp": "637034",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
