@@ -57,30 +57,6 @@
     "lastReset": "2026-04-22"
   },
   {
-    "username": "apa si",
-    "password": "12345",
-    "email": "y",
-    "phone": "0",
-    "status": "pending",
-    "otp": "562011",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 0,
-    "lastReset": "2026-04-19"
-  },
-  {
-    "username": "ga jelas",
-    "password": "54321",
-    "email": "dflaurinlaura@gmail.com",
-    "phone": "085178286498",
-    "status": "active",
-    "otp": "856728",
-    "isPremium": false,
-    "tokenVip": "",
-    "usage": 6,
-    "lastReset": "2026-04-22"
-  },
-  {
     "username": "shizaneko",
     "password": "achay",
     "email": "shiziaa@gmail.com",
