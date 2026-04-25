@@ -67,5 +67,17 @@
     "tokenVip": "",
     "usage": 0,
     "lastReset": "2026-04-25"
+  },
+  {
+    "username": "shizanekoz",
+    "password": "achay",
+    "email": "shiziaa@gmail.com",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "981231",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
