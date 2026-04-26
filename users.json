@@ -67,5 +67,17 @@
     "tokenVip": "",
     "usage": 3,
     "lastReset": "2026-04-25"
+  },
+  {
+    "username": "raraa",
+    "password": "123rara",
+    "email": "raqqilarara@gmail.com",
+    "phone": "6282175518618",
+    "status": "pending",
+    "otp": "886500",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
