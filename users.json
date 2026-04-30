@@ -79,5 +79,17 @@
     "tokenVip": "",
     "usage": 10,
     "lastReset": "2026-04-30"
+  },
+  {
+    "username": "diva",
+    "password": "duva123",
+    "email": "duvaaa@mail.com",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "406872",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
