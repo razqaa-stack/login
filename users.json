@@ -67,5 +67,17 @@
     "tokenVip": "",
     "usage": 10,
     "lastReset": "2026-04-30"
+  },
+  {
+    "username": "shinaa",
+    "password": "diva123",
+    "email": "shiziaa@gmail.com",
+    "phone": "48666666672",
+    "status": "pending",
+    "otp": "796232",
+    "isPremium": false,
+    "tokenVip": "",
+    "usage": 0,
+    "lastReset": "2026-04-19"
   }
 ]
